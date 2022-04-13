@@ -5,6 +5,8 @@ ______________
 Приложение WinForms для удобного управления написанными мною питон скриптами и шорткатами для игры LOSTARK. Запускаемый файл находится в папке bin/Debug.
 
 
+
+_______________________________________________
 ## Warning
 
 Some scripts use computer vision and screenshots, it wont be working properly on not 2560 x 1440 monitors. (Only autoG will work) 
