@@ -9,6 +9,6 @@ A windows application for handy managing python scripts and shortcuts for LOSTAR
 _______________________________________________
 ## Warning
 
-Some scripts use computer vision and screenshots, it wont be working properly on not 2560 x 1440 monitors. (Only autoG will work) 
+Some scripts use computer vision and screenshots, it wont be working properly on not 2560 x 1440 monitors.
 
-Некоторые скрипты используют методы компьютерного зрения или скриншотов, они не будут работать на мониторах отличных от 2560 x 1440. (Только скрипт autoG будет работать)
+Некоторые скрипты используют методы компьютерного зрения или скриншотов, они не будут работать на мониторах отличных от 2560 x 1440.
