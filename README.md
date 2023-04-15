@@ -1,6 +1,6 @@
 # LAScriptManager
  
-A windows application for handy managing python scripts and shortcuts for LOSTARK. Executable can be found in bin/Debug folder. Scripts do not interfere with game code, but only analyze screen contents.
+A windows application for handy managing python scripts and shortcuts for LOSTARK. Scripts do not interfere with game code, but only analyze screen contents.
 
 
 _______________________________________________
